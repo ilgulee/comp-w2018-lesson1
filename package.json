@@ -1,0 +1,11 @@
+{
+  "name": "comp-w2018-lesson1",
+  "version": "1.0.0",
+  "description": "This is my node express Demo for COMP308",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilgu lee",
+  "license": "ISC"
+}
